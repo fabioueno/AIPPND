@@ -1,2 +1,5 @@
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Byte-compiled
+__pycache__/
